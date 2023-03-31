@@ -1,0 +1,76 @@
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.AssemblyReference.cache
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.CustomerDetails.resources
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.deliver.resources
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.GenerateResource.cache
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfoInputs.cache
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfo.cs
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.CoreCompileInputs.cache
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.exe
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.deps.json
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.json
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.dev.json
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Menu.resources
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.genruntimeconfig.cache
+C:\Users\22033662\source\repos\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Receipt.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.AssemblyReference.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.CustomerDetails.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.deliver.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Menu.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Receipt.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.GenerateResource.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfoInputs.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfo.cs
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.CoreCompileInputs.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.exe
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.deps.json
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.json
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.dev.json
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Class Codes\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.genruntimeconfig.cache
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.exe
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.deps.json
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.json
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.dev.json
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.AssemblyReference.cache
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.CustomerDetails.resources
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.deliver.resources
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Menu.resources
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Receipt.resources
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.GenerateResource.cache
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfoInputs.cache
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfo.cs
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.CoreCompileInputs.cache
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\krpyt\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.genruntimeconfig.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.exe
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.deps.json
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.json
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.runtimeconfig.dev.json
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\bin\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.AssemblyReference.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.CustomerDetails.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.deliver.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Menu.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn_Pizza.Receipt.resources
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.GenerateResource.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfoInputs.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.AssemblyInfo.cs
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.csproj.CoreCompileInputs.cache
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.dll
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.pdb
+C:\Users\22033662.OCC\OneDrive - Activate Learning\Extended diploma in computing\Year 1\Coding-related\C#\Forms\Adalyn Pizza\Adalyn Pizza\obj\Debug\netcoreapp3.1\Adalyn Pizza.genruntimeconfig.cache
