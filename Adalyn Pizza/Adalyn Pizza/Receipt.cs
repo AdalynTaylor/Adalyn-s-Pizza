@@ -74,7 +74,7 @@ namespace Adalyn_Pizza
 
         private void bntPrint_Click(object sender, EventArgs e)
         {
-            StreamWriter sw = new StreamWriter(@"C:\Users\22033662.OCC\receipt.txt");
+            StreamWriter sw = new StreamWriter(@"C:\localuser\source\repos\receipt.txt");
             
             for (int i = 0; i < Menu.FinalList.Length; i++)
             {
